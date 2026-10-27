@@ -1,9 +1,6 @@
-## Hi, I'm Gina Rodo Ester Limbong 
-
-**ginardstr/ginardstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-# 👋 Hi, I'm an Information Systems Student!
+# Hi, I'm Gina Rodo Ester Limbong
 
 ### 💫 About Me
 
@@ -32,11 +29,11 @@ Currently, I'm developing my skills through academic projects involving data vis
 
 ### 📚 Featured Projects
 
-- 📊 **Business Data Visualization** — Analyzing coffee shop sales data and presenting business insights using Tableau.
-- 🤖 **AI Research Assistant** — Exploring AI applications to support research activities.
-- ⚡ **Electricity Forecasting Research** — Exploring time-series forecasting using LSTM and Transformer models.
+-  **Business Data Visualization** — Analyzing coffee shop sales data and presenting business insights using Tableau.
+-  **AI Research Assistant** — Exploring AI applications to support research activities.
+-  **Electricity Forecasting Research** — Exploring time-series forecasting using LSTM and Transformer models.
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Data Analytics and Business Intelligence
 - Machine Learning and Artificial Intelligence
