@@ -39,3 +39,12 @@ Currently, I'm developing my skills through academic projects involving data vis
 - Machine Learning and Artificial Intelligence
 - Time-Series Forecasting
 - Information Systems Analysis
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginardstr&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ginardstr&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginardstr&layout=compact&theme=radical)
