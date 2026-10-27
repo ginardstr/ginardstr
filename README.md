@@ -1,5 +1,7 @@
 ## Hi, I'm Gina Rodo Ester Limbong 
+## About Me
 
+Hi! I'm an Information Systems student with an interest in data analytics, artificial intelligence, and business technology. I'm continuously learning and developing my skills through academic projects and hands-on experience in data visualization, machine learning, and information systems. I'm passionate about exploring how technology and data can solve real-world problems and support better business decisions.
 <!--
 **ginardstr/ginardstr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
